@@ -53,6 +53,8 @@ Summarizer/
 ├── static/ # Assets & Images
 └── screenshots/ # Project UI screenshots
 
+---
+
 ✍️ Author
 Gnanaseelan M
 🎓 BSc Computer Technology Graduate – Class of 2025
