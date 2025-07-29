@@ -55,12 +55,13 @@ Summarizer/
 
 ---
 
-##✍️ Author
+#✍️ Author
+
 Gnanaseelan M
-🎓 BSc Computer Technology Graduate – Class of 2025
-🚀 Quick learner with strong communication, leadership, and adaptability
-🔧 Skilled in Python, Java, Flask, HTML/CSS, and SQL
-🎯 Passionate about real-world problem solving using tech
+  -🎓 BSc Computer Technology Graduate – Class of 2025
+  -🚀 Quick learner with strong communication, leadership, and adaptability
+  -🔧 Skilled in Python, Java, Flask, HTML/CSS, and SQL
+  -🎯 Passionate about real-world problem solving using tech
 
 📫 Contact:
 
