@@ -23,10 +23,10 @@ An intelligent web application built using **Flask** that allows users to:
 ## 📸 Screenshots
 
 ### Extracted Text View
-![Extracted Text](Image/Capture1.PNG)
+![Extracted Text](Images/Capture1.PNG)
 
 ### Ask Questions About PDF
-![QA Chatbot](Image/Capture2.PNG)
+![QA Chatbot](Images/Capture2.PNG)
 
 ---
 
