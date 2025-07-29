@@ -55,4 +55,19 @@ Summarizer/
 
 ✍️ Author
 Gnanaseelan M
-🔗 GitHub
+🎓 BSc Computer Technology Graduate – Class of 2025
+🚀 Quick learner with strong communication, leadership, and adaptability
+🔧 Skilled in Python, Java, Flask, HTML/CSS, and SQL
+🎯 Passionate about real-world problem solving using tech
+
+📫 Contact:
+
+🔗 Portfolio Website
+
+💼 LinkedIn
+
+🧠 GitHub
+
+📧 gnanaseelan145@gmail.com
+
+📱 +91 63806 93689
