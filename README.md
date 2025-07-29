@@ -55,7 +55,7 @@ Summarizer/
 
 ---
 
-✍️ Author
+##✍️ Author
 Gnanaseelan M
 🎓 BSc Computer Technology Graduate – Class of 2025
 🚀 Quick learner with strong communication, leadership, and adaptability
