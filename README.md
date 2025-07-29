@@ -80,12 +80,7 @@ python app.py
 
 # App will be live at http://127.0.0.1:5000
 ```
-
----
-
-## 🌐 Live Demo (Optional)
-
-[🔗 View on PythonAnywhere](#) *(Add your deployment link here)*
+ 
 
 ---
 
