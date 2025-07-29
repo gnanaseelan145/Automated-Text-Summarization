@@ -39,7 +39,6 @@ An intelligent web application built using **Flask** that allows users to:
 | QA Model         | LLaMA or Similar LLMs       |
 | PDF Processing   | PyMuPDF / PDFMiner          |
 | Frontend         | HTML, CSS, JS (basic)       |
-| Hosting Ready    | PythonAnywhere / Heroku     |
 
 ---
 
@@ -89,7 +88,7 @@ python app.py
 **Gnanaseelan M**  
 🎓 *BSc Computer Technology Graduate – Class of 2025*  
 🚀 Quick learner with strong communication, leadership, and adaptability  
-🔧 Skilled in Python, Java, Flask, HTML/CSS, and SQL  
+🔧 Skilled in Python, Java, HTML/CSS, and SQL  
 🎯 Passionate about real-world problem solving using tech  
 
 📫 **Contact:**  
